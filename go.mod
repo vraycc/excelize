@@ -1,4 +1,4 @@
-module github.com/vraycc/excelize
+module github.com/vraycc/go-excelize
 
 go 1.16
 
